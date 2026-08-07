@@ -12,8 +12,7 @@ Use the results to improve the Luxpository.
 Perform continuously as Limbus Company recieves updates.
 <h2>Data Tracking</h2>
 Variables being tracked currently are as follows:
-Date, Lux type, Teamcode, Description, Time, Sinner / identity information, and Other variables added later if needed.
-<h2>Planned Workflow</h2>
+Date, Lux type, Teamcode, Description, Time, Sinner / identity information, and other variables added later if needed.
 <h2>Planned Workflow</h2>
 Collect Lux run data including clear times, Lux type, and team composition. (Significant amounts of data have already been collected.)
 Store the data in a consistent format so it can be analyzed later.
