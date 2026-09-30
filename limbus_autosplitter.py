@@ -168,7 +168,7 @@ def main():
                 else:
                     consecutive_hits = 0
 
-            # 2. After initiation, waits for victory by scanning the center box (scans for 3ms to make sure)
+            # 2. After initiation, waits for victory by scanning the center box (scans for 100ms to make sure)
             elif state == STATE_RUNNING:
                 roi = get_victory_roi(canvas, VICTORY_BOX_1080P)
                 val = match_template(sct, roi, victory_template)
